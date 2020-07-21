@@ -1,5 +1,11 @@
 # context map
 ![context map](https://github.com/geticsen/multiply-table-2020-7-10-15-20-0-86/blob/master/context%20map.jpg?raw=true)
+|  createMultiplyTable()   | Description  |
+|  ----  | ----  |
+| P  | 3 mins |
+| D  | 3 mins |
+| C  | none |
+| A  | none |
 
 |  isNumberValid()   | Description  |
 |  ----  | ----  |
