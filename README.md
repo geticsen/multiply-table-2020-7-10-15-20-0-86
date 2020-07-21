@@ -1,5 +1,5 @@
 # context map
-![context map](./context map.jpg "optional title")
+![context map](https://github.com/geticsen/multiply-table-2020-7-10-15-20-0-86/blob/master/context%20map.jpg?raw=true)
 
 |  isNumberValid()   | Description  |
 |  ----  | ----  |
